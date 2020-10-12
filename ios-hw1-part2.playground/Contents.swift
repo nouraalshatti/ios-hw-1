@@ -83,7 +83,7 @@ for r in 1...5 {
 
 //bonus
 
-for w in 1...7 {
+for _ in 1...7 {
     print ("*****************")
 }
 
